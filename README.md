@@ -21,4 +21,6 @@ The regression analysis revealed the following key insights:
 * Time per Delivery: Highly significant positive coefficient (1.8805), demonstrating that the duration of each delivery has the strongest positive impact on overhead costs.
 * Weight per Delivery: Negative and statistically insignificant coefficient (-0.0023), suggesting that weight does not significantly predict changes in overhead costs.
 ## Conclusion and Implications:
-The results highlight that optimising delivery times and minimising miles traveled per delivery could significantly reduce overhead costs. Weight per delivery appears to have minimal impact and may not require immediate operational attention. Businesses can leverage these insights to enhance cost efficiency through targeted delivery management improvements.
+The results highlight that optimising delivery times and minimising miles traveled per delivery could significantly reduce overhead costs. 
+Based on the analysis, Weight per delivery appears to have minimal impact and may not require immediate operational attention. 
+Courier businesses can leverage these insights to enhance cost efficiency through targeted delivery management improvements, and effectively assign overhead costs for their delivery services.
