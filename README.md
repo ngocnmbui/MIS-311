@@ -1,11 +1,17 @@
-# MIS 311 - INTRODUCTION TO BUSINESS ANALYTICS
-## COURSE DESCRIPTION
-This course provides fundamental knowledge of business analytics and helps students develop an analytics mindset for any future analytics projects. It equips students with the skills to ask the right questions, use common workplace tools (such as Excel, Power BI, and Tableau) to examine and analyse data, and interpret results accurately to make informed business decisions. 
-Through hands-on projects and community-serving initiatives, students will explore the interdisciplinary nature of analytics by applying it to diverse domains like marketing, accounting, finance, and supply chain. The course also emphasizes the ethical implications of data use and promotes a sense of civic responsibility through real-world applications. 
-## COURSE OBJECTIVES
-* By the end of this course, students will achieve:
-* An understanding of how analytics can be used across various business functions to transform businesses.
-* Relevant knowledge and skills to perform and analyse sophisticated business processes.
-* Critical evaluation of appropriate tools and models for different scenarios, applying them effectively to solve real-world problems.
-* An appreciation of domain expertise in analytics and how companies can use business analytics to gain actionable business intelligence and competitiveness.
-* Hands-on experience through projects that serve the community and provide real-world insights.
+# Project 1: Predicting Total Overhead Cost from Delivery Variables
+## Context and Objective
+The analysis aimed to examine how specific delivery-related variables influence total overhead costs. The dataset includes information on the number of delivery days, number of deliveries, miles traveled, delivery time, and the weight of deliveries, with the total overhead cost as the dependent variable.
+## Key Variables:
+* Total Overhead Cost: Cost associated with delivery operations (dependent variable).
+* Delivery Days: Number of days taken for delivery operations.
+* Deliveries: Total number of deliveries made.
+* Miles: Total miles traveled during deliveries.
+* Delivery Time (Minutes): Total minutes spent on deliveries.
+* Weight of Delivery (lbs): Total weight of goods delivered.
+## Analysis Findings:
+The regression analysis revealed the following key insights:
+* Miles per Delivery: Positive coefficient (0.4548), indicating that increased mileage per delivery notably increases overhead costs.
+* Time per Delivery: Highly significant positive coefficient (1.8805), demonstrating that the duration of each delivery has the strongest positive impact on overhead costs.
+* Weight per Delivery: Negative and statistically insignificant coefficient (-0.0023), suggesting that weight does not significantly predict changes in overhead costs.
+## Conclusion and Implications:
+The results highlight that optimising delivery times and minimising miles traveled per delivery could significantly reduce overhead costs. Weight per delivery appears to have minimal impact and may not require immediate operational attention. Businesses can leverage these insights to enhance cost efficiency through targeted delivery management improvements.
