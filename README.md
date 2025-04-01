@@ -9,6 +9,8 @@ The analysis aimed to examine how specific delivery-related variables influence 
 * Delivery Time (Minutes): Total minutes spent on deliveries.
 * Weight of Delivery (lbs): Total weight of goods delivered.
 ## Analysis Findings:
+![image](https://github.com/user-attachments/assets/f481b62c-86ff-47b7-9eca-b89eb3c87d6e)
+
 The regression analysis revealed the following key insights:
 * Miles per Delivery: Positive coefficient (0.4548), indicating that increased mileage per delivery notably increases overhead costs.
 * Time per Delivery: Highly significant positive coefficient (1.8805), demonstrating that the duration of each delivery has the strongest positive impact on overhead costs.
