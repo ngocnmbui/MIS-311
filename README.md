@@ -10,7 +10,7 @@ The analysis aimed to examine how specific delivery-related variables influence 
 * Weight of Delivery (lbs): Total weight of goods delivered.
 ## Analysis Findings:
 The estimated overhead cost per delivery can be found using the equation below: 
-**Overhead Cost per Delivery = 14.45 + 0.46* Miles + 1.89 * Time	**		
+*Overhead Cost per Delivery = 14.45 + 0.46* Miles + 1.89 * Time	
 
 ![image](https://github.com/user-attachments/assets/f481b62c-86ff-47b7-9eca-b89eb3c87d6e)
 
